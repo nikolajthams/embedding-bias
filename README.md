@@ -2,7 +2,8 @@
 
 Code and data for the paper
 
-> Nikolaj Thams and Anton Rask Lundborg. *Embedding-Bias in Conditional Independence Testing.* 2026. arXiv preprint.
+> Nikolaj Thams and Anton Rask Lundborg. *Embedding-Bias in Conditional Independence Testing.* arXiv:2610.11584, 2026.
+> https://arxiv.org/abs/2610.11584
 
 To test whether $X$ and $Y$ are conditionally independent given a text $Z$, one conditions on an embedding $\psi(Z)$ in place of $Z$.
 The embedded test is valid if $Z$ is independent of $X$ or of $Y$ given $\psi(Z)$, which cannot be confirmed from data, and when this
@@ -173,10 +174,13 @@ The earlier application design in `app_cmv.py` (replies to the post rather than 
 
 ```bibtex
 @article{thams2026embedding,
-  title   = {Embedding-Bias in Conditional Independence Testing},
-  author  = {Thams, Nikolaj and Lundborg, Anton Rask},
-  journal = {arXiv preprint},
-  year    = {2026}
+  title         = {Embedding-Bias in Conditional Independence Testing},
+  author        = {Thams, Nikolaj and Lundborg, Anton Rask},
+  journal       = {arXiv preprint arXiv:2610.11584},
+  year          = {2026},
+  eprint        = {2610.11584},
+  archivePrefix = {arXiv},
+  primaryClass  = {stat.ML}
 }
 ```
 
