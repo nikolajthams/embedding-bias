@@ -1,9 +1,6 @@
 # Embedding-Bias in Conditional Independence Testing
 
-Code and data for the paper
-
-> Nikolaj Thams and Anton Rask Lundborg. *Embedding-Bias in Conditional Independence Testing.* arXiv:2610.11584, 2026.
-> https://arxiv.org/abs/2610.11584
+Code and data for the paper [*Embedding-Bias in Conditional Independence Testing*](https://arxiv.org/abs/2610.11584) (2026).
 
 To test whether $X$ and $Y$ are conditionally independent given a text $Z$, one conditions on an embedding $\psi(Z)$ in place of $Z$.
 The embedded test is valid if $Z$ is independent of $X$ or of $Y$ given $\psi(Z)$, which cannot be confirmed from data, and when this
