@@ -1,0 +1,1 @@
+{"model": "claude-haiku-4-5", "n_calls": 30459, "n_rated": 23402, "tokens": {"in": 6819477, "out": 117010}, "cost_usd": 7.404527, "cost_usd_this_run": 2.227303, "temperature": 0.0}

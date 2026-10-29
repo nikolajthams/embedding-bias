@@ -1,0 +1,20 @@
+{
+ "n_rows": 3000,
+ "labels": {
+  "POSITIVE": 1136,
+  "NEGATIVE": 1056,
+  "NEUTRAL": 808
+ },
+ "personas": {
+  "who tends to be appreciative and enthusiastic": 1019,
+  "who is matter-of-fact and reserved": 996,
+  "who tends to be critical and skeptical": 985
+ },
+ "sentiment_following": {
+  "corr_label_B0": 0.0761198136023244,
+  "corr_label_B1": 0.605009950128416,
+  "corr_A_B0": 0.35787237556746976,
+  "corr_A_B1": 0.6313001499804018
+ },
+ "model": "claude-haiku-4-5"
+}

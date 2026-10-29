@@ -1,0 +1,12 @@
+{
+ "n_rows": 23402,
+ "n_ops": 3051,
+ "delta_rate": 0.13721049482950176,
+ "n_delta": 3211,
+ "n_top_level_all": 48829,
+ "n_deltabot": 6476,
+ "median_score": 2.0,
+ "op_words_median": 303.0,
+ "op_words_q90": 650.0,
+ "max_per_op": 8
+}

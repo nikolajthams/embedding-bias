@@ -1,0 +1,1 @@
+{"rater": "openai", "model": "gpt-5-nano", "n_calls": 13141, "n_rated": 49050, "tokens": {"in": 2554134, "out": 131410}, "cost_usd": 0.1802707, "cost_usd_this_run": 0.1802707, "prices_per_M": [0.05, 0.4]}

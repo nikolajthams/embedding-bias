@@ -1,0 +1,22 @@
+{
+ "regen": "~/.cache/ci_text/llm/regen_qwen3-1.7b_n3000_M20.jsonl",
+ "observed": "hf",
+ "regressor": "ols",
+ "truth": "code/results/exp4_truth.csv",
+ "n": 2997,
+ "M": 20,
+ "P": 20,
+ "R": 200,
+ "grid": "0:0.8:0.025",
+ "views": [
+  "E1",
+  "E2",
+  "mean_last:384"
+ ],
+ "var_within_X": 0.09498871607517131,
+ "var_within_Y": 0.00917509275720692,
+ "C_plus": 0.02477611910085825,
+ "C_minus": -0.024807432758606716,
+ "rho_max": 0.8392513326117502,
+ "rho_min": -0.8403120325901192
+}

@@ -1,0 +1,18 @@
+{
+ "n_rows": 49050,
+ "n_parents": 18743,
+ "n_posts": 2653,
+ "delta_rate": 0.013720693170234454,
+ "n_delta": 673,
+ "op_replied_rate": 0.14110091743119266,
+ "n_eligible": 125713,
+ "n_deltabot": 6476,
+ "n_awarded_exact": 5220,
+ "median_score": 2.0,
+ "parent_words_median": 78.0,
+ "parent_words_q90": 260.0,
+ "parent_depth1_share": 0.16182041295416955,
+ "rows_per_parent_mean": 2.6169770047484393,
+ "max_per_parent": 8,
+ "min_words": 20
+}

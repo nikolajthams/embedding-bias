@@ -1,0 +1,25 @@
+{
+ "model": "Qwen/Qwen3-1.7B",
+ "n_rows": 2999,
+ "labels": {
+  "POSITIVE": 1815,
+  "NEGATIVE": 1140,
+  "NEUTRAL": 44
+ },
+ "unadjusted": {
+  "H0": 0.5156823467851055,
+  "H1": 0.6077653515602579
+ },
+ "layers": [
+  28,
+  14
+ ],
+ "dims": [
+  64,
+  128,
+  256,
+  384,
+  768
+ ],
+ "regressor": "ols"
+}

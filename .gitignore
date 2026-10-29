@@ -1,0 +1,19 @@
+# secrets and local environment
+.env
+.venv/
+venv/
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# partial-job result directories of the Slurm helpers and local logs
+results_*/
+results/*.log
+logs/
+
+# editor and OS files
+.DS_Store
+.idea/
+.vscode/

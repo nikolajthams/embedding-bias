@@ -1,0 +1,1 @@
+{"rater": "jev", "model": "jev-latest", "n_calls": 49050, "n_rated": 49050, "tokens": {"in": 22690245, "out": 931950}, "cost_usd": 0.9529902900000001, "cost_usd_this_run": 0.9529902900000001, "prices_per_M": [0.042, 0.0]}
